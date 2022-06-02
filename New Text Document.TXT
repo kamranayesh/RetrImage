@@ -1,0 +1,2 @@
+python index.py --dataset dataset --index index.csv
+python retrieve.py --index index.csv --query queries/0.jpg --result_path dataset
